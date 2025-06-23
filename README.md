@@ -1,2 +1,2 @@
-# qbo_trans_cat
+# qbo_trans_legal
 Transaction Categorizer for QBO
